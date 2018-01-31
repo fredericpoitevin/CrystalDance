@@ -1,0 +1,24 @@
+k-vect (rtnl-BZ): 0.00000 0.00000 0.50000
+rcp_v1     0.41888     0.00000     0.00000
+rcp_v2     0.00000     0.41888     0.00000
+rcp_v3     0.00000     0.00000     0.31028
+
+Passed:    100 lines
+Passed:    200 lines
+Passed:    300 lines
+Passed:    400 lines
+Passed:    500 lines
+Passed:    600 lines
+Passed:    700 lines
+Passed:    800 lines
+Passed:    900 lines
+Passed:   1000 lines
+
+Matrix contains  :     42.49% non-zero elements
+
+ trace:   175228.087233734     
+
+ Dimension of the matrix to diagonalize:        1041
+ Diagonalizaton finished!
+
+comparison of the traces   0.17522809E+06   0.17522809E+06          0.000

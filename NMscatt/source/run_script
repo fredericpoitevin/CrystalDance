@@ -1,0 +1,20 @@
+#
+# PHONON
+phonon t 0.0 0.0 0.0  > o_pt
+phonon 0 0.0 0.0 0.01 > o_p0
+phonon 1 0.0 0.0 0.1  > o_p1
+phonon 2 0.0 0.0 0.2  > o_p2
+phonon 3 0.0 0.0 0.3  > o_p3
+phonon 4 0.0 0.0 0.4  > o_p4
+phonon 5 0.0 0.0 0.5  > o_p5
+phonon 6 0.3 0.3 0.3  > o_p6
+#
+# INCOH
+incoh 6 13 2 > o_in
+#
+# COH
+coh 6 5 x 2 > o_ch
+#
+# BEAD
+bead 1 > o_bd
+
